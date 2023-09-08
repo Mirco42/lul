@@ -1,0 +1,124 @@
+{
+    "policy": [
+        {
+            "guid": "69c9a9f3-7d50-4446-bfa9-acce46322568",
+            "policyDetail": {
+                "folderId": "81ee708ba337cdd2429f9ecf3c1c4101",
+                "guid": "69c9a9f3-7d50-4446-bfa9-acce46322568",
+                "id": "81ee708ba337cdd2429f9ecf3c1c415f",
+                "name": "q",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "lul\/q.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "81ee708ba337cdd2429f9ecf3c1c415f"
+        },
+        {
+            "guid": "cf2dc0ca-d1b1-4faa-b808-0a3ac2632ec0",
+            "policyDetail": {
+                "folderId": "81ee708ba337cdd2429f9ecf3c1c4101",
+                "guid": "cf2dc0ca-d1b1-4faa-b808-0a3ac2632ec0",
+                "id": "81ee708ba337cdd2429f9ecf3c1c4173",
+                "name": "w",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "lul\/w.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "81ee708ba337cdd2429f9ecf3c1c4173"
+        },
+        {
+            "guid": "398262c3-24a6-4763-8c71-68acc0b20abd",
+            "policyDetail": {
+                "folderId": "81ee708ba337cdd2429f9ecf3c1c4101",
+                "guid": "398262c3-24a6-4763-8c71-68acc0b20abd",
+                "id": "81ee708ba337cdd2429f9ecf3c1c4187",
+                "name": "e",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "lul\/e.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "81ee708ba337cdd2429f9ecf3c1c4187"
+        }
+    ]
+}
